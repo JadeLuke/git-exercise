@@ -9,3 +9,4 @@ Adding feature/delete-goal
 adding feature/user-auth
 adding feature/edit-goal
 adding feature/add-goal
+adding feature/view-goal
