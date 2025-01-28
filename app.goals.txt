@@ -8,3 +8,4 @@ Some other emergency fix
 Adding feature/delete-goal
 adding feature/user-auth
 adding feature/edit-goal
+adding feature/add-goal
